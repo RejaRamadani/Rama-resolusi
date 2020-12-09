@@ -1,0 +1,4 @@
+Rama Resolusi
+-konsisten untuk memuat konten 2x
+-membuat platform untuk pengolahan vidoe
+-membuat form diskusi
