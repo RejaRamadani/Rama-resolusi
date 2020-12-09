@@ -2,3 +2,5 @@ Rama Resolusi
 -konsisten untuk memuat konten 2x
 -membuat platform untuk pengolahan vidoe
 -membuat form diskusi
+-membuat game
+-kolaborasi dengan master code
